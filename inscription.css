@@ -1,0 +1,41 @@
+fieldset{
+	position: relative;
+	width: 33.33333%;
+	left: 30%;
+	font-size: 25px;
+	border-radius: 5px/5px;
+	
+}
+.main
+{
+	padding: 10px;
+}
+#Enregistrer
+{
+	height: 40px;
+	width: 100px;
+	margin-right: 5%;
+	border-radius: 5px/5px;
+	background-color: #b7cdf3;
+}
+#Effacer
+{
+	height: 40px;
+	width: 200px;
+	border-radius: 5px/5px;
+	background-color: #b7cdf3;
+}
+#nom, #prenom, #email, #pseudo, #password, #confPass
+{
+	height: 35px;
+	margin-bottom: 15px;
+	width: 250px;
+}
+#Enregistrer:hover
+{
+	background: #82a8ea;
+}
+#Effacer:hover
+{
+	background: #82a8ea;
+}

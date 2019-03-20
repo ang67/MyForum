@@ -1,0 +1,115 @@
+.header
+{
+	
+}
+.icon
+{
+	float: left;
+	height: 130px;
+	width: 110px;
+
+}
+.site
+{
+	position: relative;
+	color: #aa0073;
+	font-size: 50px;
+	left: 50px;
+	text-shadow: 3px 2px 7px black;
+}
+.point
+{
+	color: #fdda19;
+}
+.main
+{
+	border-radius: 7px/7px;
+	box-shadow: 3px 4px 10px black;
+	background: #f7f7f7;
+}
+.li
+{
+	font-size: 30px;
+	display: inline;
+	padding: 2%;
+
+}
+a
+{
+	color: #aa0073;
+	
+	text-decoration: none;
+}
+.footer
+{
+	background-color: rgba(0, 0, 0, 0.9);
+	opacity: 0.9;
+	color: white;
+	height: 100px;
+	border-radius: 4px/4px;
+	bottom: 0px;
+}
+.menu
+{
+	background-color: rgba(0, 0, 0, 0.3);
+	background:hsl(); 
+	font-size: 25px;
+	border-radius: 7px/7px;
+	box-shadow: 2px 3px 7px black;
+}
+a:hover
+{
+
+	background-color: rgba(0, 0, 0, 0.2);
+	border-radius: 7px/7px;
+}
+a:active
+{
+	background-color: #fdd80b;
+	border-radius: 7px/7px;
+}
+
+.focus
+{
+	color: #fdd80b;
+}
+.legend
+{
+	font-weight: bold;
+	color: white;
+	background-color: #aa0072;
+	border-radius: 5px/5px;
+}
+input
+{
+	border-radius: 5px/5px;
+	height: 25px;
+}
+.pseudo
+{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.photoprofil
+{
+	float: right;
+	width: 80px;
+	height: 80px;
+	border-radius: 800px/800px;
+	border: 1px solid black;
+}
+.photoprofil:hover
+{
+	
+	background-color: black;
+	opacity: 0.5;
+}
+
+.photoprofil1
+{
+	width: 80px;
+	height: 80px;
+	border-radius: 800px/800px;
+	border: 1px solid black;
+}

@@ -1,0 +1,88 @@
+#envoie
+{
+	height: 40px;
+	width: 120px;
+	margin-right: 5%;
+	border-radius: 5px/5px;
+	background-color: #b7cdf3;
+}
+#effacer
+{
+	height: 40px;
+	width: 120px;
+	border-radius: 5px/5px;
+	background-color: #b7cdf3;
+}
+
+p
+{
+	position: relative;
+	left: 5%;
+	padding: 5px;
+	max-width: 80%;
+	border: 1px dotted #c1c1c1;
+	border-radius: 4px/4px;
+	overflow: auto;
+}
+.entete1
+{	
+	padding-left: 10px;
+	background: #5fe553;
+	color: white;
+	padding-bottom: 15px;
+}
+.entete2
+{	
+	padding-left: 10px;
+	background: rgba(66, 105, 225, 0.7);
+	color: white;
+	padding-bottom: 15px;
+}
+.entete12
+{	
+	padding-left: 10px;
+	background: #e96f1b;
+	color: white;
+	padding-bottom: 15px;
+}
+
+.lo
+{
+	background: #e6e6e6;
+	position: relative;
+	width: 70%;
+	left: 15%;
+	overflow: auto;
+	border-radius: 1px/1px;
+	padding-bottom: 15px;
+	padding-bottom: 1px;
+	box-shadow: 1px 2px 5px black;
+}
+
+#repondre, #annuler
+{
+	height: 40px;
+	width: 120px;
+	font-size: 20px;
+	margin-right: 5%;
+	border-radius: 5px/5px;
+	background-color: #b7cdf3;
+}
+#repondre:hover, #annuler:hover
+{
+	background-color:#749fe8;
+}
+
+#message, #titre
+{
+	position: relative;
+	left: 60px;
+}
+.photoprof
+{
+	position: relative;
+	float: left;
+	height: 50px;
+	width: 50px;
+	border-radius: 800px/800px;
+}

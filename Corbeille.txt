@@ -1,0 +1,54 @@
+<form method="post" action="message.php">
+			<label for="thème"><h3>Titre</h3> </label>
+			<input type="text" name="theme" id="theme" placeholder="titre de votre sujet" required="" size="50px">
+
+			<label for="message"><h3>Message</h3></label>
+			<textarea name="message" id="message" placeholder="votre message..." rows="10" cols="70" value="" ></textarea>
+			<br> <br/>
+
+			<input type="submit" name="envoie" id="envoie" value="Envoie">
+			<input type="reset" id="effacer" value="Effacer">
+		</form>
+
+16:03 05/03/2018<label for="message"><h3>Message</h3></label>
+				<textarea name="message" id="message" placeholder="votre message..." rows="10" cols="70" value="" ></textarea>
+
+16:03 05/03/2018 && isset($_POST['message'])
+/***********************************************17:03 05/03/2018/*****************************************
+<!--  
+		
+			</div>
+	
+		<hr width="50%">
+
+			<div class="lo">
+			
+				<div class="div1">
+					<p>
+						Sujet: Interruption de script PHP
+					</p>
+					
+					<p>
+						Par : Alpha7
+						<br/>
+						Le 28/02/2018
+					</p>
+					
+				</div>
+				<div class="div2">
+					<p>
+						205 message
+					</p>
+					
+					<p>
+						Dernier message:
+						<br/>
+						28/02/2018
+					</p>
+				</div>
+
+				
+			</div>-->
+/****************************************************************************************************/
+///////////////////////***************************************21:41 06/03/2018***************************/
+<?php echo '<li class="li"><a href="sujets.php?theme=';echo $_GET['id_theme'];echo '&amp;name=';echo $_GET['theme'];echo ">Sujets</a></li> >";?>

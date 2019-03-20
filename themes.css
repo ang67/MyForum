@@ -1,0 +1,48 @@
+.main1
+{
+	background: #f8f8f8;
+}
+
+
+.lien:hover
+{
+	text-decoration: underline;
+}
+
+.col
+{
+	display: inline-block;
+	position: relative;
+	left: 12%;
+	height: 170px;
+	margin-right: 40px;
+	margin-bottom: 20px; 
+	padding-bottom: 7px;
+	width: 350px;
+	max-width: 350px;
+	background: #cecece;
+	overflow: hidden;
+	border-radius: 10px/10px;
+	box-shadow: 3px 5px 8px #434141;
+}
+.hr
+{
+	width: 90%;
+}
+b
+{
+	background: #ec721e;
+	font-weight: bold;
+	padding: 2px;
+	padding-left: 7px;
+	padding-right: 7px;
+	color: white;
+	border-radius: 5px/5px;
+	box-shadow: 0.5px 1px 5px black;  
+}
+.legend
+{
+	position: relative;
+	width: 70%;
+	left: 15%;
+}

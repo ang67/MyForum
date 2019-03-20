@@ -1,0 +1,131 @@
+.main1
+{
+	background: #f8f8f8;
+}
+
+
+#sujet
+{
+	position: relative;
+	
+	width: 130px;
+	left: 20px;
+	border-radius: 5px/5px;
+	background-color: #80a7ea;
+	font-size: 17px;
+	font-weight: bold;
+}
+.sujets
+{
+	color: black;
+}
+
+
+.main1
+{
+	padding-bottom: 20px;
+}
+.div1
+{
+	position: relative;
+	display: inline-block;
+	left: 4%;
+	width: 500px;
+	float: left;
+	margin-right: 10px;
+}
+.div2
+{
+	position: relative;
+	display: inline-block;
+	
+}
+form
+{
+	
+}
+#nouveauSujet
+{
+	background-color: #9cb8e4;
+	width: 170px;
+	height: 45px;
+	font-size: 20px;
+	font-weight: bold;
+}
+#nouveauSujet:hover
+{
+	background-color: #608ed4;
+	
+}
+#titre
+{
+	height: 35px;
+	width: 400px;
+	margin-left: 60px;	
+}
+#message
+{
+	margin-left: 60px;
+}
+#effacer, #envoie
+{
+	background-color: #9cb8e4;
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+	margin-right: 5%; 
+}
+.lo
+{
+	background-color: #dedede;
+
+	min-width: 500px;
+	width: 70%;
+	position: relative;
+	left: 15%;
+	border-radius: 2px/2px;
+	border: 3px outset #aa0071;
+	padding-bottom: 10px;
+}
+.lo:hover
+{
+	background-color: #c2bfbe;
+	box-shadow: 2px 3px 4px rgba(0,0,0,1);
+}
+
+#envoie:hover
+{
+	background: #608ed4;
+}
+#effacer:hover
+{
+	background: #608ed4;
+}
+.cl
+{
+	width: 50%;
+}
+.div1
+{
+	width: 400px;
+	
+	text-overflow: ;
+}
+.legend
+{
+	position: relative;
+	width: 70%;
+	left: 15%;
+	text-align: center;
+}
+.nbSms
+{
+	background: #ec721e;
+	font-weight: bold;
+	padding: 2px;
+	padding-left: 7px;
+	padding-right: 7px;
+	color: white;
+	border-radius: 5px/5px;
+	box-shadow: 0.5px 0.5px 3px black;  
+}
